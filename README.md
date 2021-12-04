@@ -8,3 +8,4 @@ Starting off this banker algorithm has been solved before but figuring out the c
 To start I have included the input.txt file as the formatted form of our table and the banker.cpp file as the code itself
 the code has been compiled before so I have included the output file the a.out file as well since the output is always the same
 the system is safe and needs to be put into a specific order to have a safe sequence
+Using help from others I was able to have some code to have a basis to work off of from there however I had to format the data into something that is readable and figure out the safe sequence on my own so that I can actually figure out what code I need to use to get my answer
